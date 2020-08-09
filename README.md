@@ -14,6 +14,6 @@
 * 😄  Pronouns: He/Him 🙍🏻‍♂️
 * ⚡  Fun fact: I hunt for unanswered questions on StackOverflow in free time.
 
-## GitHub Stats 📊 [![HitCount](https://hits.dwyl.com/aashutoshrathi/aashutoshrathi.svg)](https://hits.dwyl.com/aashutoshrathi/aashutoshrathi)
+## GitHub Stats 📊
 
 <img align="center" src="https://readme.aashutosh.dev/api?username=aashutoshrathi&show_icons=true&include_all_commits=true&theme=dark" alt="Aashutosh's GitHub stats" />
