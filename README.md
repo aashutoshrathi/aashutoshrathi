@@ -50,7 +50,7 @@
 - [Answer by Aashutosh Rathi for Uncaught SyntaxError: Unexpected token with JSON.parse](https://stackoverflow.com/questions/14432165/uncaught-syntaxerror-unexpected-token-with-json-parse/59926358#59926358)
 <!-- STACKOVERFLOW:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashutoshrathi&show_icons=true&locale=en&layout=compact" alt="aashutoshrathi" /></p>
+<hr />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashutoshrathi&show_icons=true&locale=en" alt="aashutoshrathi" /></p>
 
