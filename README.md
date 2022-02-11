@@ -41,7 +41,7 @@
 - [Own your Setup for Side Projects](https://blog.aashutosh.dev/cloud-vm-setup)
 <!-- HASHNODE:END -->
 
-# StackOverflow Activity
+## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Aashutosh Rathi for Postgres display a query result into html format](https://stackoverflow.com/questions/44841059/postgres-display-a-query-result-into-html-format/63392721#63392721)
 - [Answer by Aashutosh Rathi for Print a string on multiple lines](https://stackoverflow.com/questions/61789943/print-a-string-on-multiple-lines/61790099#61790099)
