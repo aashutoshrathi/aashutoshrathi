@@ -43,6 +43,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Aashutosh Rathi for Postgres display a query result into html format](https://stackoverflow.com/questions/44841059/postgres-display-a-query-result-into-html-format/63392721#63392721)
+- [Answer by Aashutosh Rathi for Print a string on multiple lines](https://stackoverflow.com/questions/61789943/print-a-string-on-multiple-lines/61790099#61790099)
+- [Answer by Aashutosh Rathi for Why is my Binary search program in python not working correctly?](https://stackoverflow.com/questions/61652044/why-is-my-binary-search-program-in-python-not-working-correctly/61652106#61652106)
+- [Answer by Aashutosh Rathi for Upgrading Oh My Zsh gives me &#39;not a git repository&#39; error](https://stackoverflow.com/questions/33486633/upgrading-oh-my-zsh-gives-me-not-a-git-repository-error/61044295#61044295)
+- [Answer by Aashutosh Rathi for Uncaught SyntaxError: Unexpected token with JSON.parse](https://stackoverflow.com/questions/14432165/uncaught-syntaxerror-unexpected-token-with-json-parse/59926358#59926358)
 <!-- STACKOVERFLOW:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashutoshrathi&show_icons=true&locale=en&layout=compact" alt="aashutoshrathi" /></p>
