@@ -39,6 +39,10 @@
 <!-- HASHNODE:START -->
 <!-- HASHNODE:END -->
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashutoshrathi&show_icons=true&locale=en&layout=compact" alt="aashutoshrathi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashutoshrathi&show_icons=true&locale=en" alt="aashutoshrathi" /></p>
