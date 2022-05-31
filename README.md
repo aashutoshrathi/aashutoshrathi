@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on **on interesting projects**
 - 🤝 I’m looking for help with **setting up delta updates with Electron**
 - 👨‍💻 All of my projects are available at [aashutosh.dev/work/](aashutosh.dev/work/)
-- 📝 I regularly write articles on [blog.aashutosh.dev](blog.aashutosh.dev)
+- 📝 I ~regularly~ write articles on [blog.aashutosh.dev](blog.aashutosh.dev)
 - 💬 Ask me about **react, typescript, nest**
 - 📫 How to reach me **me@aashutosh.dev**
 - 📄 Know about my experiences [resume.aashutosh.dev](resume.aashutosh.dev)
