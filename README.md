@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey, I'm Aashutosh  <img src="https://files.aashutosh.dev/hey.gif" width="32px"></h1>
+<h1 align="center">Hey, I'm Aashutosh  <img src="https://files.aashutosh.dev/hey.gif" width="32"></h1>
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/aashutoshrathi?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/AashutoshRathi) 
 [![Stackoverflow Badge](https://img.shields.io/badge/-aashutoshrathi-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7326407/aashutosh-rathi)](https://stackoverflow.com/users/7326407/aashutosh-rathi)
