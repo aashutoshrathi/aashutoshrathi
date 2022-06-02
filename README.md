@@ -8,9 +8,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-me@aashutosh.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@aashutosh.dev)](mailto:me@aashutosh.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=aashutoshrathi&label=Profile%20views&color=0e75b6&style=flat-square)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashutoshrathi&theme=onedark" alt="aashutoshrathi" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashutoshrathi&theme=onedark" alt="aashutoshrathi" /></a> </p> -->
 
-- 🔭 I’m currently working on [invoicify](https://invoicify.netlify.app/)
+- 🔭 I’m currently working on [GoHostApp](https://gohost.netlify.app/)
 - 🌱 I’m currently learning **whatever comes in way**
 - 👯 I’m looking to collaborate on **on interesting projects**
 - 🤝 I’m looking for help with **setting up delta updates with Electron**
