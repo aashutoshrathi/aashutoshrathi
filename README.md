@@ -21,17 +21,6 @@
 - 📄 Know about my experiences [resume.aashutosh.dev](resume.aashutosh.dev)
 - ⚡ Fun fact **I hunt for unanswered questions on StackOverflow in free time**
 
-## Connect with me
-<p align="left">
-<a href="https://dev.to/aashutoshrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aashutoshrathi" height="30" width="40" /></a>
-<a href="https://twitter.com/aashutoshrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashutoshrathi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aashutoshrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashutoshrathi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7326407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7326407" height="30" width="40" /></a>
-<a href="https://hashnode.com/@aashutoshrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aashutoshrathi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aashutoshrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aashutoshrathi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aashutoshrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aashutoshrathi" height="30" width="40" /></a>
-</p>
-
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
 - [Multi-Client &amp; Sentinel Redis Setup with NestJS](https://blog.aashutosh.dev/multi-client-and-sentinel-redis-setup-with-nestjs)
