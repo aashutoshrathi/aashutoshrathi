@@ -37,9 +37,6 @@
 <!-- STACKOVERFLOW:END -->
 
 <hr />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashutoshrathi&show_icons=true&locale=en" alt="aashutoshrathi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashutoshrathi&" alt="aashutoshrathi" /></p>
 
 
