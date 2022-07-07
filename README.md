@@ -14,11 +14,11 @@
 - 🌱 I’m currently learning **whatever comes in way**
 - 👯 I’m looking to collaborate on **on interesting projects**
 - 🤝 I’m looking for help with **setting up delta updates with Electron**
-- 👨‍💻 All of my projects are available at [aashutosh.dev/work/](aashutosh.dev/work/)
-- 📝 I ~regularly~ write articles on [blog.aashutosh.dev](blog.aashutosh.dev)
+- 👨‍💻 All of my projects are available at [aashutosh.dev/work/](https://aashutosh.dev/work/)
+- 📝 I ~regularly~ write articles on [blog.aashutosh.dev](https://blog.aashutosh.dev)
 - 💬 Ask me about **react, typescript, nest**
 - 📫 How to reach me **me@aashutosh.dev**
-- 📄 Know about my experiences [resume.aashutosh.dev](resume.aashutosh.dev)
+- 📄 Know about my experiences [resume.aashutosh.dev](https://resume.aashutosh.dev)
 - ⚡ Fun fact **I hunt for unanswered questions on StackOverflow in free time**
 
 ## Hashnode Blog Post
