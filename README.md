@@ -23,6 +23,7 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Introducing Nibble!](https://blog.aashutosh.dev/introducing-nibble)
 - [Multi-Client &amp; Sentinel Redis Setup with NestJS](https://blog.aashutosh.dev/multi-client-and-sentinel-redis-setup-with-nestjs)
 - [Own your Setup for Side Projects](https://blog.aashutosh.dev/cloud-vm-setup)
 <!-- HASHNODE:END -->
