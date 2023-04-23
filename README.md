@@ -23,11 +23,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Nibble #4](https://blog.aashutosh.dev/nibble-4)
 - [Nibble #3](https://blog.aashutosh.dev/nibble-3)
 - [Nibble #2](https://blog.aashutosh.dev/nibble-2)
 - [Nibble #1](https://blog.aashutosh.dev/nibble-1)
 - [Introducing Nibble!](https://blog.aashutosh.dev/nibble-0)
-- [Multi-Client &amp; Sentinel Redis Setup with NestJS](https://blog.aashutosh.dev/multi-client-and-sentinel-redis-setup-with-nestjs)
 <!-- HASHNODE:END -->
 
 ## StackOverflow Activity
