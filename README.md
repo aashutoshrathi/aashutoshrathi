@@ -23,11 +23,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Nibble #6](https://blog.aashutosh.dev/nibble-6)
 - [Nibble #5](https://blog.aashutosh.dev/nibble-5)
 - [Nibble #4](https://blog.aashutosh.dev/nibble-4)
 - [Nibble #3](https://blog.aashutosh.dev/nibble-3)
 - [Nibble #2](https://blog.aashutosh.dev/nibble-2)
-- [Nibble #1](https://blog.aashutosh.dev/nibble-1)
 <!-- HASHNODE:END -->
 
 ## StackOverflow Activity
