@@ -23,6 +23,11 @@
 
 ## Nibble
 <!-- NIBBLE:START -->
+- [Nibble #8](https://thenibble.substack.com/p/nibble-8)
+- [Nibble #7](https://thenibble.substack.com/p/nibble-7)
+- [Nibble #6](https://thenibble.substack.com/p/nibble-6)
+- [Nibble #5](https://thenibble.substack.com/p/nibble-5)
+- [Nibble #4](https://thenibble.substack.com/p/nibble-4)
 <!-- NIBBLE:END -->
 
 ## Hashnode Blog Post
