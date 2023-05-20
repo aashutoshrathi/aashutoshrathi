@@ -15,13 +15,13 @@
 - 👯 I’m looking to collaborate on **on interesting projects**
 - 🤝 I’m looking for help with **setting up delta updates with Electron**
 - 👨‍💻 All of my projects are available at [aashutosh.dev/work/](https://aashutosh.dev/work/)
-- 📝 I ~regularly~ write stuff on [blog.aashutosh.dev](https://blog.aashutosh.dev) & [The Nibble](https://thenibble.substack.com/)
+- 📝 I ~regularly~ write stuff on [blog.aashutosh.dev](https://blog.aashutosh.dev) & [The Nibble](https://nibbles.dev)
 - 💬 Ask me about **react, typescript, nest**
 - 📫 How to reach me **me@aashutosh.dev**
 - 📄 Know about my experiences [resume.aashutosh.dev](https://resume.aashutosh.dev)
 - ⚡ Fun fact **I hunt for unanswered questions on StackOverflow in free time**
 
-## Nibble
+## Last 5 [Nibbles](https://nibbles.dev)
 <!-- NIBBLE:START -->
 - [Nibble #8](https://thenibble.substack.com/p/nibble-8)
 - [Nibble #7](https://thenibble.substack.com/p/nibble-7)
