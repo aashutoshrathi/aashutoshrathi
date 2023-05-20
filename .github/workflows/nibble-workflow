@@ -1,7 +1,7 @@
 name: Lastest Nibble
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '* * * * *'
   workflow_dispatch:
 
 jobs:
