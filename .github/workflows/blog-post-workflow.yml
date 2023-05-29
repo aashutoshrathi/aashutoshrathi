@@ -1,4 +1,4 @@
-name: Lastest Hashnode Blog Post
+name: Lastest Blogs
 on:
   schedule:
     - cron: '0 * * * *'
@@ -6,12 +6,12 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest Hashnode blog posts
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "HASHNODE"
-          commit_message: "Updated readme with the latest Hashnode Blog data"
-          feed_list: "https://blog.aashutosh.dev/rss.xml"
+          comment_tag_name: "BLOGS"
+          commit_message: "Update with latest blogs"
+          feed_list: "https://blog.aashutosh.dev/rss.xml,https://thenibble.substack.com/feed"
