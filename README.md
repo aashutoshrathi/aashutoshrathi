@@ -21,23 +21,9 @@
 - 📄 Know about my experiences [resume.aashutosh.dev](https://resume.aashutosh.dev)
 - ⚡ Fun fact **I hunt for unanswered questions on StackOverflow in free time**
 
-## Last 5 [Nibbles](https://nibbles.dev)
-<!-- NIBBLE:START -->
-- [Nibble #9](https://thenibble.substack.com/p/09)
-- [Nibble #8](https://thenibble.substack.com/p/nibble-8)
-- [Nibble #7](https://thenibble.substack.com/p/nibble-7)
-- [Nibble #6](https://thenibble.substack.com/p/nibble-6)
-- [Nibble #5](https://thenibble.substack.com/p/nibble-5)
-<!-- NIBBLE:END -->
-
-## Hashnode Blog Post
-<!-- HASHNODE:START -->
-- [Nibble #6](https://blog.aashutosh.dev/nibble-6)
-- [Nibble #5](https://blog.aashutosh.dev/nibble-5)
-- [Nibble #4](https://blog.aashutosh.dev/nibble-4)
-- [Nibble #3](https://blog.aashutosh.dev/nibble-3)
-- [Nibble #2](https://blog.aashutosh.dev/nibble-2)
-<!-- HASHNODE:END -->
+## Blogs & [Nibbles](https://nibbles.dev)
+<!-- BLOGS:START -->
+<!-- BLOGS:END -->
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
