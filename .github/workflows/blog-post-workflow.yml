@@ -15,3 +15,4 @@ jobs:
           comment_tag_name: "BLOGS"
           commit_message: "Update with latest blogs"
           feed_list: "https://blog.aashutosh.dev/rss.xml,https://thenibble.substack.com/feed"
+          remove_duplicates: true
