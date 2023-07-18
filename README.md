@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [GoHostApp](https://web.gohost.app/)
 - 🌱 I’m currently learning **whatever comes in way**
-- 👯 I’m looking to collaborate on **on interesting projects**
+- 👯 I’m looking to collaborate **on interesting projects**
 - 🤝 I’m looking for help with **setting up delta updates with Electron**
 - 👨‍💻 All of my projects are available at [aashutosh.dev/work/](https://aashutosh.dev/work/)
 - 📝 I ~regularly~ write stuff on [blog.aashutosh.dev](https://blog.aashutosh.dev) & [The Nibble](https://nibbles.dev)
