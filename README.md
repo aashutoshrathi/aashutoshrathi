@@ -23,11 +23,11 @@
 
 ## Blogs & [Nibbles](https://nibbles.dev)
 <!-- BLOGS:START -->
+- [Nibble #20](https://thenibble.substack.com/p/20)
 - [Nibble #19](https://thenibble.substack.com/p/19)
 - [Nibble #18](https://thenibble.substack.com/p/18)
 - [Airchat Invite Code Giveaway](https://thenibble.substack.com/p/airchat-invite-code-giveaway)
 - [Nibble #17](https://thenibble.substack.com/p/17)
-- [Nibble #16](https://thenibble.substack.com/p/16)
 <!-- BLOGS:END -->
 
 ## StackOverflow Activity
