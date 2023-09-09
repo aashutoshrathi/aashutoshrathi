@@ -3,6 +3,7 @@
 <h1 align="center">Hey, I'm Aashutosh  <img src="https://files.aashutosh.dev/hey.gif" width="32"></h1>
 
 [![Twitter Badge](https://img.shields.io/badge/-@AashutoshRathi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AashutoshRathi)](https://twitter.com/AashutoshRathi) 
+[![PH Badge](https://img.shields.io/badge/@AashutoshRathi-da552f?style=flat-square&logo=producthunt&logoColor=white&link=https://www.producthunt.com/@AashutoshRathi)](https://www.producthunt.com/@AashutoshRathi) 
 [![Stackoverflow Badge](https://img.shields.io/badge/-aashutoshrathi-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7326407/aashutosh-rathi)](https://stackoverflow.com/users/7326407/aashutosh-rathi)
 [![Linkedin Badge](https://img.shields.io/badge/-aashutoshrathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashutoshrathi/)](https://www.linkedin.com/in/aashutoshrathi/)
 [![Gmail Badge](https://img.shields.io/badge/-me@aashutosh.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@aashutosh.dev)](mailto:me@aashutosh.dev)
