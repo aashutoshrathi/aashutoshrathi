@@ -24,11 +24,11 @@
 
 ## Blogs & [Nibbles](https://nibbles.dev)
 <!-- BLOGS:START -->
+- [#24](https://thenibble.substack.com/p/24)
 - [#23](https://thenibble.substack.com/p/23)
 - [#22](https://thenibble.substack.com/p/22)
 - [Nibble got its own place](https://blog.aashutosh.dev/the-nibble)
 - [#21](https://thenibble.substack.com/p/21)
-- [Nibble #20](https://thenibble.substack.com/p/20)
 <!-- BLOGS:END -->
 
 ## StackOverflow Activity
