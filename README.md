@@ -40,7 +40,4 @@
 - [Answer by Aashutosh Rathi for Upgrading Oh My Zsh gives me &#39;not a git repository&#39; error](https://stackoverflow.com/questions/33486633/upgrading-oh-my-zsh-gives-me-not-a-git-repository-error/61044295#61044295)
 <!-- STACKOVERFLOW:END -->
 
-<hr />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashutoshrathi&" alt="aashutoshrathi" /></p>
-
 
