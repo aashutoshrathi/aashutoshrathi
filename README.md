@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hey, I'm Aashutosh  <img src="https://files.aashutosh.dev/hey.gif" width="32"></h1>
 
 [![Twitter Badge](https://img.shields.io/badge/-@AashutoshRathi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AashutoshRathi)](https://twitter.com/AashutoshRathi) 
@@ -31,7 +30,7 @@
 - [Astrophysics for People in a Hurry](https://www.goodreads.com/review/show/3391666682?utm_medium=api&utm_source=rss) by Neil deGrasse Tyson (⭐️4.07)
 <!-- GOODREADS-LIST:END -->
 
-## Blogs & [Nibbles](https://nibbles.dev)
+### Blogs & [Nibbles](https://nibbles.dev)
 <!-- BLOGS:START -->
 - [#30](https://thenibble.substack.com/p/30)
 - [#29](https://thenibble.substack.com/p/29)
@@ -40,7 +39,7 @@
 - [#26](https://thenibble.substack.com/p/26)
 <!-- BLOGS:END -->
 
-## StackOverflow Activity
+### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Aashutosh Rathi for How to fix extended property on express request](https://stackoverflow.com/questions/71905220/how-to-fix-extended-property-on-express-request/71905279#71905279)
 - [Answer by Aashutosh Rathi for Postgres display a query result into html format](https://stackoverflow.com/questions/44841059/postgres-display-a-query-result-into-html-format/63392721#63392721)
