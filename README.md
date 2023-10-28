@@ -20,7 +20,11 @@
 - 💬 Ask me about **react, typescript, nest**
 - 📫 How to reach me **me@aashutosh.dev**
 - 📄 Know about my experiences [resume.aashutosh.dev](https://resume.aashutosh.dev)
-- ⚡ Fun fact **I hunt for unanswered questions on StackOverflow in free time**
+- ⚡ Fun fact **I hunt for unanswered questions on StackOverflow in my free time**
+
+### Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 ## Blogs & [Nibbles](https://nibbles.dev)
 <!-- BLOGS:START -->
