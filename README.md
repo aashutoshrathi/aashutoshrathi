@@ -10,13 +10,12 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashutoshrathi&theme=onedark" alt="aashutoshrathi" /></a> </p> -->
 
-- 🔭 I’m currently working on [GoHostApp](https://web.gohost.app/)
-- 🌱 I’m currently learning **whatever comes in way**
-- 👯 I’m looking to collaborate **on interesting projects**
-- 🤝 I’m looking for help with **setting up delta updates with Electron**
+- 🔭 I’m currently working on cool new stuff @[Regie](https://regie.ai)
+- 🌱 I’m currently learning **art of software engineering with humans**
+- 👯 I’m looking to collaborate **on useful projects**
 - 👨‍💻 All of my projects are available at [aashutosh.dev/work/](https://aashutosh.dev/work/)
 - 📝 I ~regularly~ write stuff on [blog.aashutosh.dev](https://blog.aashutosh.dev) & [The Nibble](https://nibbles.dev)
-- 💬 Ask me about **react, typescript, nest**
+- 💬 Ask me about **react, typescript, nest, devx**
 - 📫 How to reach me **me@aashutosh.dev**
 - 📄 Know about my experiences [resume.aashutosh.dev](https://resume.aashutosh.dev)
 - ⚡ Fun fact **I hunt for unanswered questions on StackOverflow in my free time**
