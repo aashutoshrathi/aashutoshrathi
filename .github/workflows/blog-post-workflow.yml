@@ -13,6 +13,9 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOGS"
+          committer_username: "automation.aashutosh.dev"
+          committer_email: "automation@aashutosh.dev"
           commit_message: "Update with latest blogs"
           feed_list: "https://blog.aashutosh.dev/rss.xml,https://thenibble.substack.com/feed"
           remove_duplicates: true
+          
