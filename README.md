@@ -32,11 +32,11 @@
 
 ### Blogs & [Nibbles](https://nibbles.dev)
 <!-- BLOGS:START -->
+- [Dive into the World of High-Quality Data with Abhishek](https://thenibble.substack.com/p/dive-into-the-world-of-high-quality)
 - [#41](https://thenibble.substack.com/p/41)
 - [#40](https://thenibble.substack.com/p/40)
 - [#39](https://thenibble.substack.com/p/39)
 - [#38](https://thenibble.substack.com/p/38)
-- [#37](https://thenibble.substack.com/p/37)
 <!-- BLOGS:END -->
 
 ### StackOverflow Activity
