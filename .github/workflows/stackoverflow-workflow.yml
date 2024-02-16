@@ -14,4 +14,4 @@ jobs:
         with:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://stackoverflow.com/feeds/user/7326407"
+          feed_list: "https://pratinidhi.aashutosh.dev/api/proxy?url=https://stackoverflow.com/feeds/user/7326407"
