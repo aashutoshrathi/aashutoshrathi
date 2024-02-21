@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashutoshrathi&theme=onedark" alt="aashutoshrathi" /></a> </p> -->
 
-- 🔭 I’m currently working on cool new stuff @[Regie](https://regie.ai)
+- 🔭 I’m currently working on cool new stuff @[StackrLabs](https://stackrlabs.xyz)
 - 🌱 I’m currently learning **art of software engineering with humans**
 - 👯 I’m looking to collaborate **on useful projects**
 - 👨‍💻 All of my projects are available at [aashutosh.dev/work/](https://aashutosh.dev/work/)
