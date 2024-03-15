@@ -32,11 +32,11 @@
 
 ### Blogs & [Nibbles](https://nibbles.dev)
 <!-- BLOGS:START -->
-- [#51](https://www.nibbles.dev/p/51)
-- [#50](https://www.nibbles.dev/p/50)
-- [#49](https://www.nibbles.dev/p/49)
-- [#48](https://www.nibbles.dev/p/48)
-- [#47](https://www.nibbles.dev/p/47)
+- [Nibble got its own place](https://blog.aashutosh.dev/the-nibble)
+- [Nibble #6](https://blog.aashutosh.dev/nibble-6)
+- [Nibble #5](https://blog.aashutosh.dev/nibble-5)
+- [Nibble #4](https://blog.aashutosh.dev/nibble-4)
+- [Nibble #3](https://blog.aashutosh.dev/nibble-3)
 <!-- BLOGS:END -->
 
 ### StackOverflow Activity
