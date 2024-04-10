@@ -1,7 +1,7 @@
 name: Latest stack overflow activity
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '14 15 * * *'
   workflow_dispatch:
   
 jobs:
