@@ -32,11 +32,11 @@
 
 ### Blogs & [Nibbles](https://nibbles.dev)
 <!-- BLOGS:START -->
+- [#65](https://www.nibbles.dev/p/65)
 - [#64](https://www.nibbles.dev/p/64)
 - [#63](https://www.nibbles.dev/p/63)
 - [#62](https://www.nibbles.dev/p/62)
 - [Netlify&#39;s build clean-up](https://blog.aashutosh.dev/netlifys-build-clean-up)
-- [#61](https://www.nibbles.dev/p/61)
 <!-- BLOGS:END -->
 
 ### StackOverflow Activity
