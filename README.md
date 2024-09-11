@@ -32,11 +32,11 @@
 
 ### Blogs & [Nibbles](https://nibbles.dev)
 <!-- BLOGS:START -->
-- [#76](https://www.nibbles.dev/p/76)
-- [#75](https://www.nibbles.dev/p/75)
-- [#74](https://www.nibbles.dev/p/74)
-- [#73](https://www.nibbles.dev/p/73)
-- [#72](https://www.nibbles.dev/p/72)
+- [Netlify&#39;s build clean-up](https://blog.aashutosh.dev/netlifys-build-clean-up)
+- [Nibble got its own place](https://blog.aashutosh.dev/the-nibble)
+- [Nibble #6](https://blog.aashutosh.dev/nibble-6)
+- [Nibble #5](https://blog.aashutosh.dev/nibble-5)
+- [Nibble #4](https://blog.aashutosh.dev/nibble-4)
 <!-- BLOGS:END -->
 
 ### StackOverflow Activity
