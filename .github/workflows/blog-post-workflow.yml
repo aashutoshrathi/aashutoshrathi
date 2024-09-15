@@ -16,6 +16,6 @@ jobs:
           committer_username: "automation.aashutosh.dev"
           committer_email: "automation@aashutosh.dev"
           commit_message: "Update with latest blogs"
-          feed_list: "https://blog.aashutosh.dev/rss.xml,https://pratinidhi.aashutosh.dev/api/proxy?url=https://thenibble.substack.com/feed.xml"
+          feed_list: "https://blog.aashutosh.dev/rss.xml,https://thenibble.substack.com/feed.xml"
           remove_duplicates: true
           
