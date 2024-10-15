@@ -32,11 +32,11 @@
 
 ### Blogs & [Nibbles](https://nibbles.dev)
 <!-- BLOGS:START -->
+- [#81](https://www.nibbles.dev/p/81)
 - [#80](https://www.nibbles.dev/p/80)
 - [#79](https://www.nibbles.dev/p/79)
 - [#78](https://www.nibbles.dev/p/78)
 - [#77](https://www.nibbles.dev/p/77)
-- [#76](https://www.nibbles.dev/p/76)
 <!-- BLOGS:END -->
 
 ### StackOverflow Activity
