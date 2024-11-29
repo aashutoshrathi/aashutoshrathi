@@ -1,7 +1,7 @@
-name: Lastest Blogs
+name: Latest Blogs
 on:
   schedule:
-    - cron: '14 15 * * *'
+    - cron: '14 15 * * 6,0'
   workflow_dispatch:
 
 jobs:
@@ -18,4 +18,4 @@ jobs:
           commit_message: "Update with latest blogs"
           feed_list: "https://blog.aashutosh.dev/rss.xml,https://nibbles.dev/feed.xml"
           remove_duplicates: true
-          
+
