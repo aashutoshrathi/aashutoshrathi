@@ -32,11 +32,11 @@
 
 ### Blogs & [Nibbles](https://nibbles.dev)
 <!-- BLOGS:START -->
+- [#87](https://www.nibbles.dev/p/87)
 - [#86](https://www.nibbles.dev/p/86)
 - [#85](https://www.nibbles.dev/p/85)
 - [🌻 What is Solarpunk?](https://blog.aashutosh.dev/what-is-solarpunk)
 - [#84](https://www.nibbles.dev/p/84)
-- [#83](https://www.nibbles.dev/p/83)
 <!-- BLOGS:END -->
 
 ### StackOverflow Activity
