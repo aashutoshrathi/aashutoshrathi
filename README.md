@@ -22,8 +22,9 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Source Code: My Beginnings](https://www.goodreads.com/review/show/7325164218?utm_medium=api&utm_source=rss) by Bill  Gates (⭐️4.09)
 - [The Immortals of Meluha (Shiva Trilogy, #1)](https://www.goodreads.com/review/show/7246904731?utm_medium=api&utm_source=rss) by Amish Tripathi (⭐️4.11)
-- [Operating Systems: Three Easy Pieces](https://www.goodreads.com/review/show/7221559976?utm_medium=api&utm_source=rss) by Remzi H. Arpaci-Dusseau (⭐️4.71)
+- [Operating Systems: Three Easy Pieces](https://www.goodreads.com/review/show/7221559976?utm_medium=api&utm_source=rss) by Remzi H. Arpaci-Dusseau (⭐️4.72)
 - [Immune: The new book from Kurzgesagt - a gorgeously illustrated deep dive into the immune system](https://www.goodreads.com/review/show/6074975336?utm_medium=api&utm_source=rss) by Philipp Dettmer (⭐️4.7)
 - [Wabi Sabi: The Wisdom in Imperfection](https://www.goodreads.com/review/show/5644305977?utm_medium=api&utm_source=rss) by Nobuo Suzuki (⭐️4.2)
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/5493700040?utm_medium=api&utm_source=rss) by Brian  Christian (⭐️4.12)
