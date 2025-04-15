@@ -22,14 +22,14 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Source Code: My Beginnings](https://www.goodreads.com/review/show/7325164218?utm_medium=api&utm_source=rss) by Bill  Gates (⭐️4.09)
+- [Source Code: My Beginnings](https://www.goodreads.com/review/show/7325164218?utm_medium=api&utm_source=rss) by Bill  Gates (⭐️4.07)
 - [The Immortals of Meluha (Shiva Trilogy, #1)](https://www.goodreads.com/review/show/7246904731?utm_medium=api&utm_source=rss) by Amish Tripathi (⭐️4.11)
 - [Operating Systems: Three Easy Pieces](https://www.goodreads.com/review/show/7221559976?utm_medium=api&utm_source=rss) by Remzi H. Arpaci-Dusseau (⭐️4.72)
-- [Immune: The new book from Kurzgesagt - a gorgeously illustrated deep dive into the immune system](https://www.goodreads.com/review/show/6074975336?utm_medium=api&utm_source=rss) by Philipp Dettmer (⭐️4.7)
+- [Immune: A Journey into the Mysterious System That Keeps You Alive](https://www.goodreads.com/review/show/6074975336?utm_medium=api&utm_source=rss) by Philipp Dettmer (⭐️4.7)
 - [Wabi Sabi: The Wisdom in Imperfection](https://www.goodreads.com/review/show/5644305977?utm_medium=api&utm_source=rss) by Nobuo Suzuki (⭐️4.2)
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/5493700040?utm_medium=api&utm_source=rss) by Brian  Christian (⭐️4.12)
-- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4657665795?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.34)
-- [Rich Dad, Poor Dad](https://www.goodreads.com/review/show/4313219251?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki (⭐️4.11)
+- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4657665795?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.33)
+- [Rich Dad, Poor Dad](https://www.goodreads.com/review/show/4313219251?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki (⭐️4.1)
 - [Astrophysics for People in a Hurry](https://www.goodreads.com/review/show/3391666682?utm_medium=api&utm_source=rss) by Neil deGrasse Tyson (⭐️4.07)
 <!-- GOODREADS-LIST:END -->
 
