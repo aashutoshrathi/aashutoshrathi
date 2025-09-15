@@ -22,15 +22,15 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Source Code: My Beginnings](https://www.goodreads.com/review/show/7325164218?utm_medium=api&utm_source=rss) by Bill  Gates (⭐️4.05)
+- [Source Code: My Beginnings](https://www.goodreads.com/review/show/7325164218?utm_medium=api&utm_source=rss) by Bill  Gates (⭐️4.04)
 - [The Immortals of Meluha (Shiva Trilogy, #1)](https://www.goodreads.com/review/show/7246904731?utm_medium=api&utm_source=rss) by Amish Tripathi (⭐️4.12)
 - [Operating Systems: Three Easy Pieces](https://www.goodreads.com/review/show/7221559976?utm_medium=api&utm_source=rss) by Remzi H. Arpaci-Dusseau (⭐️4.72)
-- [Immune: A Journey into the Mysterious System That Keeps You Alive](https://www.goodreads.com/review/show/6074975336?utm_medium=api&utm_source=rss) by Philipp Dettmer (⭐️4.69)
+- [Immune: A Journey into the Mysterious System That Keeps You Alive](https://www.goodreads.com/review/show/6074975336?utm_medium=api&utm_source=rss) by Philipp Dettmer (⭐️4.68)
 - [Wabi Sabi: The Wisdom in Imperfection](https://www.goodreads.com/review/show/5644305977?utm_medium=api&utm_source=rss) by Nobuo Suzuki (⭐️4.2)
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/5493700040?utm_medium=api&utm_source=rss) by Brian  Christian (⭐️4.12)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4657665795?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.33)
 - [Rich Dad, Poor Dad](https://www.goodreads.com/review/show/4313219251?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki (⭐️4.1)
-- [Astrophysics for People in a Hurry](https://www.goodreads.com/review/show/3391666682?utm_medium=api&utm_source=rss) by Neil deGrasse Tyson (⭐️4.07)
+- [Astrophysics for People in a Hurry](https://www.goodreads.com/review/show/3391666682?utm_medium=api&utm_source=rss) by Neil deGrasse Tyson (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
 
 ### Blogs & [Nibbles](https://nibbles.dev)
