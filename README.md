@@ -22,7 +22,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Source Code: My Beginnings](https://www.goodreads.com/review/show/7325164218?utm_medium=api&utm_source=rss) by Bill  Gates (⭐️4.04)
+- [Source Code: My Beginnings](https://www.goodreads.com/review/show/7325164218?utm_medium=api&utm_source=rss) by Bill  Gates (⭐️4.06)
 - [The Immortals of Meluha (Shiva Trilogy, #1)](https://www.goodreads.com/review/show/7246904731?utm_medium=api&utm_source=rss) by Amish Tripathi (⭐️4.12)
 - [Operating Systems: Three Easy Pieces](https://www.goodreads.com/review/show/7221559976?utm_medium=api&utm_source=rss) by Remzi H. Arpaci-Dusseau (⭐️4.72)
 - [Immune: A Journey into the Mysterious System That Keeps You Alive](https://www.goodreads.com/review/show/6074975336?utm_medium=api&utm_source=rss) by Philipp Dettmer (⭐️4.69)
