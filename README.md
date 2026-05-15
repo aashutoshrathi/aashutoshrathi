@@ -27,9 +27,9 @@
 - [Operating Systems: Three Easy Pieces](https://www.goodreads.com/review/show/7221559976?utm_medium=api&utm_source=rss) by Remzi H. Arpaci-Dusseau (⭐️4.71)
 - [Immune: A Journey into the Mysterious System That Keeps You Alive](https://www.goodreads.com/review/show/6074975336?utm_medium=api&utm_source=rss) by Philipp Dettmer (⭐️4.68)
 - [Wabi Sabi: The Wisdom in Imperfection](https://www.goodreads.com/review/show/5644305977?utm_medium=api&utm_source=rss) by Nobuo Suzuki (⭐️4.19)
-- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/5493700040?utm_medium=api&utm_source=rss) by Brian  Christian (⭐️4.12)
+- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/5493700040?utm_medium=api&utm_source=rss) by Brian  Christian (⭐️4.11)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4657665795?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.32)
-- [Rich Dad, Poor Dad](https://www.goodreads.com/review/show/4313219251?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki (⭐️4.09)
+- [Rich Dad Poor Dad: What the Rich Teach Their Kids About Money—That the Poor and Middle Class Do Not!](https://www.goodreads.com/review/show/4313219251?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki (⭐️4.09)
 - [Astrophysics for People in a Hurry](https://www.goodreads.com/review/show/3391666682?utm_medium=api&utm_source=rss) by Neil deGrasse Tyson (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
 
