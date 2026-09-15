@@ -29,7 +29,7 @@
 - [Wabi Sabi: The Wisdom in Imperfection](https://www.goodreads.com/review/show/5644305977?utm_medium=api&utm_source=rss) by Nobuo Suzuki (⭐️4.18)
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/review/show/5493700040?utm_medium=api&utm_source=rss) by Brian  Christian (⭐️4.11)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4657665795?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.31)
-- [Rich Dad Poor Dad: What the Rich Teach Their Kids About Money—That the Poor and Middle Class Do Not!](https://www.goodreads.com/review/show/4313219251?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki (⭐️4.09)
+- [Rich Dad Poor Dad: What the Rich Teach Their Kids About Money—That the Poor and Middle Class Do Not!](https://www.goodreads.com/review/show/4313219251?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki (⭐️4.08)
 - [Astrophysics for People in a Hurry](https://www.goodreads.com/review/show/3391666682?utm_medium=api&utm_source=rss) by Neil deGrasse Tyson (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
 
